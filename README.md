@@ -1,5 +1,7 @@
 # tranSRTe
 
+![](docs/teaser.png)
+
 This script translates srt files into other languages.
 Translation uses [DeepL API](https://www.deepl.com/ja/docs-api), so you need to prepare an authentication key in advance.
 
